@@ -1,0 +1,15 @@
+# Node / Slidev
+node_modules/
+.slidev/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
